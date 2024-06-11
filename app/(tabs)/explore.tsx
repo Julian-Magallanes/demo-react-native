@@ -13,7 +13,7 @@ export default function TabTwoScreen() {
     <ParallaxScrollView>
       <>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">QUE QUIERES CALCULAR ?</ThemedText>
+        <ThemedText type="title">QUE QUIERES CALCULAR?</ThemedText>
       </ThemedView>
       <CardsList />
       </>
